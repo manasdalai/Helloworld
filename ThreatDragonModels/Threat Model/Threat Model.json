@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Manas"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Manas"
+  }
+}
